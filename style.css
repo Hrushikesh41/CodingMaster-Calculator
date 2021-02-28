@@ -1,0 +1,172 @@
+.container {
+    height: 500px;
+    width: 400px;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 115px;
+    border-radius: 3%;
+    background-color: darkgrey;
+}
+
+button {
+    background-color: white;
+    border-radius: 43%;
+    font-weight: bold;
+}
+
+input {
+    border-radius: 25%;
+}
+
+#screen {
+    height: 50px;
+    width: 340px;
+    margin-top: 50px;
+    border: 1px solid black;
+    margin-left: 29px;
+}
+
+#part {
+    margin-left: 15px;
+}
+
+#percent {
+    height: 40px;
+    width: 60px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+#bo {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#seven {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#four {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#one {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+#c {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#bc {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#eight {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#five {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#two {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#dot {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+#zero {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#nine {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#six {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#three {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+#divide {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#multiply {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#sub {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#add {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+#equal {
+    height: 40px;
+    width: 60px;
+    margin-top: 30px;
+    margin-left: 40px;
+}
